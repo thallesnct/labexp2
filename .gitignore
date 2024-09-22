@@ -1,0 +1,5 @@
+.venv
+repo_clones
+repo_clones/**
+ck_results
+ck_results/**
